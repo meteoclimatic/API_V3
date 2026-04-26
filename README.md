@@ -1,8 +1,6 @@
 # API_V3
 Ficheros, scripts y otros correspondientes a la Versión 3 de la API Meteoclimatic
 
-Rutinas para el envío de datos a Meteoclimatic via API
-
 api-meteoclimatic.py es una rutina en Python para enviar los datos de tu estación meteorológica a Meteoclimatic mediante la API de Meteoclimatic. Funciona con los códigos de estación y apikey de Alba Información dentro del propio script.
 
 api-meteoclimatic.sh es una rutina en Bash para enviar datos de tu estación meteorológica a Meteoclimatic mediante la API de Meteoclimatic. Funciona con los códigos de estación y apikey de Alba Los datos a configurar los encontrarás dentro del propio script.
