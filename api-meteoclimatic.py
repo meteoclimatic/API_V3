@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-# Creado por José A. García-Tenorio (jantoni) en Abril de 2026
+# Creado por José A. García Tenorio (jantoni) en Abril de 2026
 
 # Este Script envía los datos de tu estación a Meteoclimatic utilizando la versión 3 de su API.
 # Para ello necesitas definir 2 variables
