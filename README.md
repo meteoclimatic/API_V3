@@ -10,4 +10,3 @@ api-meteoclimatic.bat es un fichero de lotes para Windows. Utiliza la API V3 de 
 api-meteoclimatic.ps1 es un fichero de lotes para Powershell de Windows. Al igual que el fichero de lotes para CMD de Windows, utiliza la API V3 de Meteoclimatic. Solo tendrás que configurar la APIkey de Meteoclimatic. Los demás datos, como el código de estación, son obtenidos directamente del fichero meteoclimatic.htm que debe generar tu software (Cumulus, CumulusMX, Weewx, WeatherDisplay, Weatherlink, etc)
 
 
-dayfile-%Y-%m.txt.tmpl es una plantilla para instalarla en un skin de Weewx. Genera un fichero dayfile.txt por cada mes que haya almacenado en la base de datos Este informe sirve para subir datos que falten en Meteoclimatic y los tengamos en nuestra base de datos. Basado en los informes NOAA de Tom Keffer
