@@ -1,4 +1,4 @@
-# Creado a partir del script original de jantoni (Abril 2026)
+#  Creado a partir del script original de jantoni (Abril 2026)
 
 # Debes asegurarte que Powershell está habilitado para ejecutar scripts.
 # Ejecuta este comando dentro de Powershell
