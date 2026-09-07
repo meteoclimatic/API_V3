@@ -1,0 +1,6 @@
+0.2
+  Corregida la incidencia por la que el uplolader fallaba en el momento del inicio de Weeewx
+    Sustituida la librería distutils, desaparecida en Python 3.12 por una función propia
+0.1 
+  Primera versión
+
